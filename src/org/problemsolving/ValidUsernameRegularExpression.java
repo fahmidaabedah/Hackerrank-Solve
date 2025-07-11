@@ -8,6 +8,7 @@ class UsernameValidator {
 
 }
 
+
 public class ValidUsernameRegularExpression {
     private static final Scanner scan = new Scanner(System.in);
 
