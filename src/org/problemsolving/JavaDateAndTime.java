@@ -2,7 +2,6 @@ package org.problemsolving;
 
 import java.text.DateFormatSymbols;
 import java.util.Scanner;
-import java.time.LocalDate;
 import java.util.Calendar;
 
 class result {
@@ -22,7 +21,6 @@ public class JavaDateAndTime {
         int day = sc.nextInt();
         int year = sc.nextInt();
         String res = result.findDay(month, day, year);
-
         System.out.println(res);
 
     }
