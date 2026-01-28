@@ -6,7 +6,7 @@ public class DuplicateWords {
 
     public static void main(String[] args) {
 
-        String regex = "/* Write a RegEx matching repeated words here. */";
+        String regex = "llfedf";
         Pattern p = Pattern.compile(regex, /* Insert the correct Pattern flag here.*/);
 
         Scanner in = new Scanner(System.in);
